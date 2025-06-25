@@ -1,0 +1,1 @@
+# woocommerce-stock-notice-plugin
